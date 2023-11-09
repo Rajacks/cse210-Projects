@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("-----^Welcome to you journet program!^-----");
+        Console.WriteLine("-----^Welcome to your journal program!^-----");
         
         string opcion = "";
         string entry;
